@@ -4,7 +4,9 @@
 
 * Source project
   * https://hackaday.io/project/191186-sax-a-boom-clone (contains link to audio files)
-  * 
+* Rackett inspiration 3D model: https://www.thingiverse.com/thing:6774133
+  * Source drawings for 3D model: https://archive.org/details/a-step-by-step-guide-of-the-construction-of-a-renaissance-rackett-manual/mode/2up
+* Wikipedia article on the Rackett: https://en.wikipedia.org/wiki/Rackett
 
 ## Resources for this project
 
@@ -40,6 +42,11 @@
   * Link to downloaded PDF: [esp32_at_instruction_set_and_examples_en.pdf](./resources/esp32_at_instruction_set_and_examples_en.pdf)
 * Wayback machine for ESP32-A1S v2.3 specification: https://web.archive.org/web/20241125000000*/https://docs.ai-thinker.com/_media/esp32-a1s_v2.3_specification.pdf
   * Link to downloaded PDF: [esp32-a1s_v2.3_specification.pdf](/resources/esp32-a1s_v2.3_specification.pdf)
+* AI Thinker ESP32 Audio Kit demystified: https://www.reddit.com/r/esp32/comments/12b8nun/ai_thinker_esp32_audio_kit_demystified/
+* Ai Thinker ESP32 A1S Audio Kit board definition for esp-adf: https://github.com/trombik/esp-adf-component-ai-thinker-esp32-a1s
+  * Didn't need to dig into this once I found the arduino-audio-tools repo and examples since they supported the AI-Thinker board
+* https://github.com/codewitch-honey-crisis/ai_thinker_audio_kit
+
 
 
 
